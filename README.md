@@ -15,10 +15,10 @@ Para instalar las dependecias de AngularJS y NodeJS, ubicarse en el directorio d
 Windows, macOS y Linux: 
 
  ```sh
- cd /path/BaseMEAN
+ cd /path/MEAN
  npm install
  
- cd /path/BaseMEAN/public
+ cd /path/MEAN/public
  npm install
  ```
  
