@@ -1,0 +1,19 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "Base project mean stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaquinhmtz/MEAN.git"
+  },
+  "author": "Joaquín Hernández - joaquin_downhill@hotmail.com - FullStack Developer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaquinhmtz/MEAN/issues"
+  },
+  "homepage": "https://github.com/joaquinhmtz/MEAN#readme"
+}
